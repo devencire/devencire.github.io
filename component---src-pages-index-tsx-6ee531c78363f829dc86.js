@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{155:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),i=function(e){var n=e.children;return a.a.createElement("div",{style:{margin:"0 auto",maxWidth:650,padding:"0 1rem"}},n)};n.default=function(){return a.a.createElement(i,null,a.a.createElement("h2",null,"devencire.github.io"),a.a.createElement("p",null,"There's nothing here... yet."))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-6ee531c78363f829dc86.js.map
