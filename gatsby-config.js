@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `devencire.github.io`,
+  },
   plugins: [
     `gatsby-plugin-typescript`,
     {
