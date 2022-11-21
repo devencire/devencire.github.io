@@ -1,4 +1,4 @@
-# README
+# Exciting Markdown section
 
 ## Opening thoughts
 
