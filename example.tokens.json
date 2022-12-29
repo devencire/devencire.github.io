@@ -1,12 +1,14 @@
 {
-  "shadow-token": {
-    "$type": "shadow",
-    "$value": {
-      "color": "#00000080",
-      "offsetX": "0.5rem",
-      "offsetY": "0.5rem",
-      "blur": "1.5rem",
-      "spread": "0rem"
+  "brand": {
+    "$description": "Design tokens from our brand guidelines",
+    "color": {
+      "$description": "Our brand's primary color palette",
+      "acid green": {
+        "$value": "#00ff66"
+      },
+      "hot pink": {
+        "$value": "#dd22cc"
+      }
     }
   }
 }
