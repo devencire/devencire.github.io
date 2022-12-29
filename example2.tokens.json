@@ -1,0 +1,208 @@
+{
+  "color": {
+    "Blue": {
+      "Blue-10": {
+        "value": "#cde1fe"
+      },
+      "Blue-20": {
+        "value": "#93bffd"
+      },
+      "Blue-40": {
+        "value": "#5f9ffc"
+      },
+      "Blue-50": {
+        "value": "#3682f4"
+      },
+      "Blue-60": {
+        "value": "#1e64cd"
+      },
+      "Blue-80": {
+        "value": "#0e479e"
+      },
+      "Blue-90": {
+        "value": "#032d69"
+      }
+    },
+    "Brand pink": {
+      "Pink-10": {
+        "value": "#fee6ee"
+      },
+      "Pink-20": {
+        "value": "#fda5c2"
+      },
+      "Pink-40": {
+        "value": "#fb6b9b"
+      },
+      "Pink-50": {
+        "value": "#f63e7c"
+      },
+      "Pink-60": {
+        "value": "#e32b68"
+      },
+      "Pink-80": {
+        "value": "#c51d54"
+      },
+      "Pink-90": {
+        "value": "#7f1034"
+      }
+    },
+    "Green": {
+      "Green-10": {
+        "value": "#c5f4dd"
+      },
+      "Green-20": {
+        "value": "#8ceabc"
+      },
+      "Green-40": {
+        "value": "#5cdb9d"
+      },
+      "Green-50": {
+        "value": "#3dc481"
+      },
+      "Green-60": {
+        "value": "#25ac67"
+      },
+      "Green-80": {
+        "value": "#16894d"
+      },
+      "Green-90": {
+        "value": "#096034"
+      }
+    },
+    "Greyscale": {
+      "Grey-10": {
+        "value": "#f2f1f2"
+      },
+      "Grey-100": {
+        "value": "#212121"
+      },
+      "Grey-15": {
+        "value": "#e9e8e9"
+      },
+      "Grey-20": {
+        "value": "#e6e4e5"
+      },
+      "Grey-5": {
+        "value": "#fcfbfb"
+      },
+      "Grey-60": {
+        "value": "#9e9e9e"
+      },
+      "Grey-80": {
+        "value": "#605f60"
+      },
+      "White": {
+        "value": "#ffffff"
+      }
+    },
+    "Red": {
+      "Red-10": {
+        "value": "#fecfcd"
+      },
+      "Red-20": {
+        "value": "#fd9994"
+      },
+      "Red-40": {
+        "value": "#fc6860"
+      },
+      "Red-50": {
+        "value": "#f44336"
+      },
+      "Red-60": {
+        "value": "#cd2622"
+      },
+      "Red-80": {
+        "value": "#9b1311"
+      },
+      "Red-90": {
+        "value": "#650905"
+      }
+    },
+    "Yellow": {
+      "Yellow-10": {
+        "value": "#fff5dd"
+      },
+      "Yellow-20": {
+        "value": "#fee5a0"
+      },
+      "Yellow-40": {
+        "value": "#fed367"
+      },
+      "Yellow-50": {
+        "value": "#fdc128"
+      },
+      "Yellow-60": {
+        "value": "#db9637"
+      },
+      "Yellow-80": {
+        "value": "#b47034"
+      },
+      "Yellow-90": {
+        "value": "#864e2f"
+      }
+    },
+    "Icon": {
+      "Primary": {
+        "value": "{color.Greyscale.Grey-100.value}"
+      },
+      "Secondary": {
+        "value": "{color.Greyscale.Grey-80.value}"
+      },
+      "Tertiary": {
+        "value": "{color.Greyscale.Grey-60.value}"
+      },
+      "Highlighted": {
+        "value": "{color.Brand pink.Pink-50.value}"
+      },
+      "Reversed": {
+        "value": "{color.Greyscale.White.value}"
+      },
+      "Warning": {
+        "value": "{color.Red.Red-50.value}"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "value": "{color.Greyscale.Grey-100.value}"
+      },
+      "Reversed secondary": {
+        "value": "{color.Greyscale.Grey-60.value}"
+      },
+      "Reversed primary": {
+        "value": "{color.Greyscale.White.value}"
+      },
+      "Secondary": {
+        "value": "{color.Greyscale.Grey-80.value}"
+      },
+      "Tertiary": {
+        "value": "{color.Greyscale.Grey-60.value}"
+      },
+      "Warning": {
+        "value": "{color.Red.Red-50.value}"
+      },
+      "Highlighted": {
+        "value": "{color.Brand pink.Pink-50.value}"
+      }
+    },
+    "Utilities": {
+      "Border-100": {
+        "value": "rgba(33, 33, 33, 0.15)"
+      },
+      "Border-80": {
+        "value": "rgba(96, 95, 96, 0.15)"
+      },
+      "Overlay background": {
+        "value": "rgba(33, 33, 33, 0.5)"
+      },
+      "Reversed Border-100": {
+        "value": "rgba(255, 255, 255, 0.15)"
+      },
+      "Transparent": {
+        "value": "rgba(255, 255, 255, 0.01)"
+      },
+      "Comment Highlight": {
+        "value": "rgba(255, 234, 106, 0.6)"
+      }
+    }
+  }
+}
