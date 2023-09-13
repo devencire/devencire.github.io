@@ -2,7 +2,7 @@
 
 ## Opening thoughts
 
-Great, isn't it?
+Have changed since last.
 
 ## Closing thoughts
 
