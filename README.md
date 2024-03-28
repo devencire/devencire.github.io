@@ -10,5 +10,5 @@ Have changed again again!
 
 What an adventure.
 
-![image](images/pico.png)
 ![image](./images/btn_get_started.png)
+![image](images/pico.png)
