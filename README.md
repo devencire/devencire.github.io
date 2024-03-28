@@ -8,7 +8,7 @@ Have changed again again!
 
 ## Closing thoughts
 
-What an adventure.
+What an adventure. And it changed again...
 
-![image](./images/btn_get_started.png)
+![image](./images/btn_get_started_renamed.png)
 ![image](./images/pico_renamed.png)
