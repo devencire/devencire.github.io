@@ -10,5 +10,5 @@ Have changed again again!
 
 What an adventure. And it changed again...
 
-![image](./images/btn_get_started_renamed_again.png)
+![image](./images/btn_get_started_renamed_again_again.png)
 ![image](./images/pico_renamed.png)
