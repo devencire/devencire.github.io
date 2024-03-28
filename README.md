@@ -9,4 +9,4 @@ Have changed again again!
 
 What an adventure. And it changed again...
 
-![image](./images/pico_renamed.png)
+![image](./images/pico_renamed_again.png)
