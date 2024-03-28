@@ -9,4 +9,4 @@ Have changed again again!
 
 What an adventure. And it changed again...
 
-![image](./images/btn_get_started_1340.png)
+![image](./images/btn_get_started_1637.png)
