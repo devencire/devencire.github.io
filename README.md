@@ -2,7 +2,7 @@
 
 ## Opening thoughts
 
-Have changed again again!
+Have changed again again! [Here's a relative link.](./file_2.md) [Here's another link.](file_3.md)
 
 
 ## Closing thoughts
